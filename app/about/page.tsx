@@ -33,7 +33,7 @@ export default function about() {
         {/* ---------------------------------     */}
         <div className=" w-full h-auto lg:h-[18rem]  flex justify-between mt-4 gap-6 flex-col sm:flex-row">
           <ContainerAbout3 data={{ text0: "Experience", text1: '5 months', text2: "Data Analytics And Visualization", text3: "- Accenture, Virtual", text4: "4 months", text5: "Data Visualisation: Empowering Business With Effective Insights", text6: "Tata Forage, Virtual" }} />
-          <ContainerAbout3 data={{ text0: "Education", text1: 'BCA', text2: "DSEU Ambedkar campus", text3: "2022-2025", text4: "Senior Secondary schooling", text5: "S.V.V timarpur", text6: "2018-2020" }} />
+          <ContainerAbout3 data={{ text0: "Education", text1: 'BCA', text2: "DSEU Ambedkar campus", text3: "2022-2025", text4: "Senior Secondary schooling", text5: "S.B.B timarpur", text6: "2018-2020" }} />
         </div>
 {/* -------------- only after lg----------------- */}
         <div className=" w-full h-[17rem]  xl:flex justify-between mt-4 gap-6 hidden">
