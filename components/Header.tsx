@@ -31,7 +31,7 @@ export default function App() {
           className="sm:hidden text-white"
         />
         <NavbarBrand>
-          <p className="font-bold text-inherit text-white">AK-Port</p>
+          <p className="font-bold text-inherit text-white">Gk-Port</p>
         </NavbarBrand>
       </NavbarContent>
 
